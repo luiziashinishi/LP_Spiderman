@@ -1,0 +1,157 @@
+body{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+header{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color: white;
+}
+
+
+h1{
+    font-weight: 200;
+    text-align: left;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: 56px;
+    line-height: 10px;
+}
+
+h3 {
+    padding-top: 100px;
+    margin-bottom: 150px;
+    text-align: center;
+    font-size: 56px;
+    line-height: 10px;
+    margin-top: 450px;
+}
+
+span{
+    color: rgb(201, 36, 14);
+}
+
+p{
+    line-height: 20px;
+    max-width: 500px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+img{
+    width: 500px;
+    align-items: right;
+}
+
+.titulo {
+    margin: 122px 50px -84px 6px;
+    
+}
+.verde{
+    align-items: center;
+}
+
+.tobey{
+    position: absolute;
+    right: 500px;
+}
+
+.doende {
+    width: 250px;
+    margin: 0px 250px -160px 210px;
+
+ }
+ .titulodoende {
+    padding-top: 200px;
+    margin: 0px 0px 45px 0px;
+}
+
+.dr{
+    position: absolute;
+    right: 600px;
+}
+
+.titulodr {
+    padding-top: 200px;
+    margin: 0px 110px;
+}
+
+.textodr {
+    margin: 42px 110px;
+    line-height: 20px;
+    max-width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.eletro{
+    width: 300px;
+    margin: 0px 266px 0px 150px;
+}
+
+.tituloeletro{
+    font-size: 56px;
+    line-height: 10px;
+    padding-top: 230px;
+}
+
+.homem-areia{
+    margin: -130px 320px ;
+    width: 600px;
+    position: absolute;
+    right: 200px;
+    
+}
+
+.tituloareia {
+    padding-top: 150px;
+    margin: 0px 150px;
+}
+
+.textoareia {
+    margin: 42px 150px;
+    line-height: 20px;
+    max-width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.largato{
+    width: 500px;
+    margin: 0px 160px 0px 65px;
+
+}
+.titulolargato{
+    padding-top: 180px;
+}
+
+
